@@ -9,10 +9,10 @@
 - 5 Github : 분산 버전 관리 툴인 깃을 사용하는 프로젝트를 지원하는 웹호스팅 서비스
 
 ### 2주차 목표 : Django MTV, ORM, HTMl 논리처리
-- 1 ) static(css 연결)
+- 1 ) static(css 연결) 
 - 2 ) git init -> status -> add -> commit -> push / pull
 - 3 ) bootstrap
-- 4 ) Django MTV pattern & ORM (Model)
+- 4 ) Django MTV pattern & ORM (Model) / admin page
 - 5 ) Templates Tag
 
 ### 3주차 목표 : CRUD, github page 배포
