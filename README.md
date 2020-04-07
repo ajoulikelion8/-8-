@@ -11,17 +11,21 @@
 ### 2주차 목표 : Django MTV, ORM, HTMl 논리처리
 - 1 ) static(css 연결) 
 - 2 ) git init -> status -> add -> commit -> push / pull
-- 3 ) bootstrap
+- 3 ) 환율계산 페이지 실습
 - 4 ) Django MTV pattern & ORM (Model) / admin page
 - 5 ) Templates Tag
 
 ### 3주차 목표 : CRUD, github page 배포
 - 1 ) CRUD
 - 2 ) media files
-- 3 ) 배포란?
-- 4 ) github 배포
+- 3 ) bootstrap
+- 4 ) 배포란?
+- 5 ) github 배포
 
-### 4주차 목표 : Self Project 진행해보기
+### 4주차 목표 : self project 해보기
+- 1 ) form
+
+
 
 ## 5월
 ### 2주차 목표 : AWS배포와 git branch
