@@ -22,7 +22,7 @@
 - 5 ) github 배포
   git init -> status -> add -> commit -> push / pull
 
-### 4주차 목표 : self project 해보기
+### 4주차 목표 : Classview / self project 해보기
 - 1 ) form / model form
 - 2 ) function view와 class view
 - 3 ) url include (여러 앱 url 관리)
