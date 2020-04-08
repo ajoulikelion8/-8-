@@ -23,9 +23,9 @@
 - 5 ) github 배포
 
 ### 4주차 목표 : self project 해보기
-- 1 ) form
-
-
+- 1 ) form / model form
+- 2 ) function view와 class view
+- 3 ) url include (여러 앱 url 관리)
 
 ## 5월
 ### 2주차 목표 : AWS배포와 git branch
