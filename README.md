@@ -14,23 +14,20 @@
 - 3 Django MTV pattern & ORM (Model) / admin page
 - 4 아주대 멋사 8기 페이지 실습 (MTV, Templates Tag)
 
-### 3주차 목표 : CRUD, github page 배포
-- 1 ) CRUD
-- 2 ) media files
-- 3 ) bootstrap
-- 4 ) 배포란?
-- 5 ) github 배포
-  git init -> status -> add -> commit -> push / pull
+### 3 주차 목표 : 1:N Model 연결/ 여러 app 연결/ 코드의 재사용 / Git
+- 1 여러개의 app의 url 관리하기 위해 include
+- 2 Model의 1:N 관계(foreing key) PK(Primary key)기본키 의 이해
+- 3 코드의 재사용
+- 3 form으로 사용자 입력받고 DB에 저장하기
 
-### 4주차 목표 : Classview 상속 / self project 해보기
-- 1 ) form / model form
-- 2 ) function view와 class view
-- 3 ) url include (여러 앱 url 관리)
+### 4주차 목표 : CRUD와 Git공부/ self project 해보기
+- 1 ) CRUD
+- 2 ) Git
+- 3 ) Self Project 진행
 
 ## 5월
 ### 2주차 목표 : AWS배포와 git branch
 - 1 ) AWS
-- 2 ) git branch
 - 3 ) git kraken
 
 ### 3주차 목표 : 협업방식
