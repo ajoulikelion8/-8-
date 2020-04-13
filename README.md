@@ -8,11 +8,11 @@
 - 4 환경설정, 패키지설치, Django Hello World!
 - 5 Github : 분산 버전 관리 툴인 깃을 사용하는 프로젝트를 지원하는 웹호스팅 서비스
 
-### 2주차 목표 : Django MTV, ORM, HTMl 논리처리
-- 1 ) static(css 연결) 
-- 2 ) 환율계산 페이지 실습
-- 3 ) Django MTV pattern & ORM (Model) / admin page
-- 4 ) Templates Tag
+### 2주차 목표 : MTV pattern과 ORM을 이해한다
+- 1 staticfiles(css 연결)
+- 2 환율계산 페이지 실습 (Templates - view - url)
+- 3 Django MTV pattern & ORM (Model) / admin page
+- 4 아주대 멋사 8기 페이지 실습 (MTV, Templates Tag)
 
 ### 3주차 목표 : CRUD, github page 배포
 - 1 ) CRUD
