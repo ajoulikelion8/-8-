@@ -34,3 +34,15 @@
 ## 6월 
 ### 1주차 목표 : Git으로 협업하기
 ### 2,3,4주차 목표 :  팀 개발
+
+
+## 7월
+### 1) 팀개발
+### 2) Front(JS, UI/UX), Backend(Django, AWS, API 등등) 팀별 스터디
+
+## 8월
+### 1) 팀개발
+### 2) Front(JS, UI/UX), Backend(Django, AWS, API 등등) 팀별 스터디
+
+## 9월
+### 해커톤 준비
