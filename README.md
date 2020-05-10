@@ -6,7 +6,6 @@
 - 2 Django Framework를 사용하는 이유
 - 3 웹 구동 원리와 Django의 역활
 - 4 환경설정, 패키지설치, Django Hello World!
-- 5 Github : 분산 버전 관리 툴인 깃을 사용하는 프로젝트를 지원하는 웹호스팅 서비스
 
 ### 2주차 목표 : MTV pattern과 ORM을 이해한다
 - 1 staticfiles(css 연결)
@@ -26,9 +25,12 @@
 - 3 ) Self Project 진행
 
 ## 5월
-### 2주차 목표 : AWS배포와 git branch
-- 1 ) AWS
-- 3 ) git kraken
+### 2주차 목표 : Git, AWS 배포
+- 1 ) Git
 
-### 3주차 목표 : 협업방식
+### 3주차 목표 : AWS 배포
 - 규리
+
+## 6월 
+### 1주차 목표 : Git으로 협업하기
+### 2,3,4주차 목표 :  팀 개발
