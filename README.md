@@ -10,7 +10,7 @@
 - 2 환율계산 페이지 실습 (Templates - view - url)
 - 3 Django MTV pattern & ORM (Model) / admin page
 - 4 아주대 멋사 8기 페이지 실습 (MTV, Templates Tag)
-### 3 주차 목표 : 1:N Model 연결/ 여러 app 연결/ 코드의 재사용 / Git
+### 3 주차 목표 : 1:N Model 연결/ 여러 app 연결/ 코드의 재사용
 - 1 여러개의 app의 url 관리하기 위해 include
 - 2 Model의 1:N 관계(foreing key) PK(Primary key)기본키 의 이해
 - 3 코드의 재사용
@@ -21,13 +21,11 @@
 - 3 ) Self Project 진행
 
 ### 5주차 목표 : AWS로 self project 배포
-- 1 ) Git
+- 1 ) AWS
 
-### 6주차 목표 : AWS 배포
+### 6주차 목표 :  Git으로 협업하기/ 협업방법
 
-### 7주차 목표 : Git으로 협업하기/ 협업방법
-
-### 8, 9, 10주차 목표 :  팀 개발 및 기능 개별 세션 진행
+### 7, 8, 9, 10주차 목표 :  팀 개발 및 기능 개별 세션 진행
 
 ### 11주차~ 목표 : 팀별 스터디 
 
